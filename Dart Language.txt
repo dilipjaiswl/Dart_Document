@@ -1,0 +1,139 @@
+Dart
+22 oct 2024
+-> Dart is a client-optimized language for developing fast apps on any platform. 
+-> Its goal is to offer the most productive programming language for multi-platform development.
+-> paired with a flexible execution runtime platform for app frameworks.
+-> Dart is designed for a technical envelope that is particularly suited to client development, 
+    prioritizing both development (sub-second stateful hot reload) and high-quality production experiences
+    across a wide variety of compilation targets (web, mobile, and desktop).
+-> Dart also forms the foundation of Flutter. Dart provides the language and runtimes that power Flutter apps,
+    but Dart also supports many core developer tasks like formatting, analyzing, and testing code.
+
+Dart: The language
+-> The Dart language is type safe; 
+-> it uses static type checking to ensure that a variable's value always matches the variable's static type.
+   ---Sometimes, this is referred to as sound typing.
+-> Although types are mandatory, type annotations are optional because of type inference.
+-> The Dart typing system is also flexible, allowing the use of a dynamic type combined with runtime checks,
+-> Dart has built-in sound null safety.
+-> This means values can't be null unless you say they can be. With sound null safety, 
+    Dart can protect you from null exceptions at runtime through static code analysis 
+
+Dart: The platforms
+-> Native platform:
+ For apps targeting mobile and desktop devices,
+     Dart includes both a Dart VM with
+-> just-in-time (JIT) compilation and an 
+-> ahead-of-time (AOT) compiler for producing machine code.
+
+Web platform: 
+-> For apps targeting the web, Dart can compile for development or production purposes. 
+-> Its web compilers translate Dart into JavaScript or WebAssembly.
+
+23 oct 2024
+-> Some setup of outlook and udemy(but didn't get access).
+
+Variable
+-> var name = 'Bob';
+-> Variables store references.
+-> The variable called name contains a reference to a String object with a value of "Bob".
+
+-> The type of the name variable is inferred to be String, but you can change that type by specifying it.
+ If an object isn't restricted to a single type, specify the Object type (or dynamic if necessary).
+
+
+Variable like,
+var 
+const = It is a runtime constant
+final = it is a compile time constant.it set once only.
+int =
+double
+
+Sound null Safety basic
+
+23 oct 2024
+Set the Dart sdk and flutter.
+datatype
+String and its method like substring ,indexOf(
+
+25 OCT 2024(Sick Leave)
+26 OCT 2024(Saturday)
+27 OCT 2024(Sunday
+
+28 OCT 2024
+  DATATYPE
+-> Number 
+-> String
+-> Boolean
+-> Final And Const keyword
+-> Conditional Expression and its way
+-> Switch Case
+-> Loop
+-> For Loop
+-> While Loop
+-> Do while Loop
+-> Break And Labels Keyword
+-> Continue And Labels Keyword
+
+29 OCT 2024
+FUNCTION
+-> Introduction to Function
+-> Syntax and its Properties
+-> Function as Expression
+-> Type of Function
+   => Required Parameter
+   => Optional Parameter
+   => Optional Named Parameter
+   => Optional Default Parameter
+
+
+30 oct 2024
+Exception Handling
+ =>Type of Error
+ =>Custom Exception
+OOPs
+==> class 
+=> object
+
+4 NOV 2024
+Constructor
+=>type of Constructor and Its Properties
+  ->Default Constructor
+  ->Parameterized Constructor
+  ->Named Constructor
+  ->Constant Constructor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
